@@ -1,5 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+This project was crated by `npx react-native init PureReactNative` from zero, then added some configurations and documents to 
+help someone wants to simply develop and build apk/aab for learning react-native
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
