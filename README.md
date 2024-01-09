@@ -122,3 +122,8 @@ Use following command to release aab in `.\android\app\build\outputs\bundle\rele
 cd android
 ./gradlew bundleRelease
 ```
+
+or use
+```
+npx react-native build-android --mode=release
+```
